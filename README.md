@@ -1,2 +1,1 @@
-# coloured-trex-
-class 18
+# Trex-Colour
